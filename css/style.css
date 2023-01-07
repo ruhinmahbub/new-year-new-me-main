@@ -1,0 +1,246 @@
+* {
+margin: none;
+}
+
+/* header start */
+.header{
+    /* font-family: 'Work Sans'; */
+    position: absolute;
+    width: 1600px;
+    height: 808px;
+    margin-left: 0px;
+    margin-top: 0px;
+    background-image: url(../images/banner/banner3.png);
+    background-color: rgba(25, 0, 255, 0.986);
+    background-repeat: no-repeat;
+}
+.bnr-head{
+
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 65px;
+    line-height: 76px;
+    text-align: right;
+    color: #FFFFFF;
+    position: absolute;
+    width: 525px;
+    height: 228px;
+    margin-left: 845px;
+    margin-top: 216px;
+}
+
+.bnr-para{
+   
+position: absolute;
+width: 494px;
+height: 78px;
+margin-left: 876px;
+margin-top: 468px;
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+text-align: right;
+color: #FFFFFF;
+}
+
+.btn-primary{
+border: 0;
+/* font-family: 'Work Sans'; */
+color: #005FAC;
+Width:160px;
+Height:64px;
+margin-top: 578px;
+margin-left:1210px;
+border-radius:5px;
+position: absolute;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 23px;
+text-align: center;
+}
+
+/* header end */
+
+/* my-previous start */
+.my{
+font-family: 'Work Sans';  
+margin-left: 87px;
+}
+
+.div1{
+display: flex;
+align-items: center;
+height: 723.3px;
+width: 1072px;
+margin-left: 206px;
+margin-top: 939px;
+border-radius: 0px;
+position: absolute;
+
+}
+/* my-previous start end */
+
+/* myplan start */
+
+
+.section-title{
+
+
+    position: absolute;
+    width: 179px;
+    height: 47px;
+    left: 765px;
+    top: 1792px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    text-align: center;
+    color: #151414;
+
+}
+.plans-container{
+    font-family: 'Work Sans';
+    padding-top: 50px;
+    display: flex;
+    justify-content: space-around;
+    position: absolute;
+    width: 1141px;
+    height: 202.96px;
+    margin-left: 230px;
+    margin-top: 1889px;
+}
+
+.plan-description{
+    font-family: 'Work Sans';
+    color:#737272;
+    position: absolute;
+    text-align: center;
+}
+/* myplan end */
+
+/* always-keep (AK) -start */
+.a-keep{
+    font-family: 'Work Sans';
+    color:white ;
+    position: absolute;
+    width: 1140px;
+    height: 300px;
+    left: 230px;
+    top: 2221.96px;
+    border-radius: 8px;
+    background-image:
+    linear-gradient(90deg, #005FAC 0%, rgba(0, 95, 172, 0) 100%),
+    url('../images/watch.png');
+  
+}
+
+.ak{
+    padding-left: 64px;
+    padding-top: 59px;
+    padding-bottom: 59px;
+    padding-right: 617px;
+}
+
+.btn-call{
+    margin-top: 24px;
+    border: 0;
+    font-family: 'Work Sans';
+    position: absolute;
+    width: 160px;
+    height: 64px;
+    top: 117px;
+
+    background: #FFFFFF;
+    border-radius: 5px;
+    color: #148df0;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 23px;
+    letter-spacing: 0em;
+    text-align: center;
+
+
+}
+/* always-keep (AK) -end */
+
+/* footer start */
+
+
+.fot{
+    
+    background-color: #151414;
+    width: 1600px;
+    height: 577px;
+    left: 0px;
+    top: 2651.96px;
+}
+.footer{
+    
+    display: flex;
+    position: absolute;
+    width: 1600px;
+    height: 577px;
+    left: 0px;
+    top: 2651.96px;
+    background: #151414;
+    color: #17e465;
+}
+.footer-title{
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 53px;
+ 
+}
+
+.footer-left{
+    font-family: 'Work Sans';
+    position: absolute;
+    width: 485px;
+    height: 317px;
+    left: 230px;
+    top: 2781.96px;
+}
+
+.footer-right{
+    font-family: 'Work Sans';
+    position: absolute;
+    width: 325px;
+    height: 204px;
+    left: 1046px;
+    top: 2781.96px;
+}
+
+.text{
+    font-family: 'Work Sans';
+margin-top: 31px;
+}
+
+.Subscribe-btn{
+
+    margin-top: 16px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    
+    color: #F15B22;
+    
+}
+.imgfooter{
+    padding-bottom: 130px;
+}
+
+
+/* footer end */
+
